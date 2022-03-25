@@ -2,7 +2,7 @@ Olá!
 
 Esse é o meu primeiro repo tratando de fim a fim, uma pipeline de dados abertos do governo brasileiro relacionado a compras de contrato e cronogramas anuais com spark, em pyspark e SQL! 
 
-O código se encontra [aqui](spark_application\etl.py) e o dado pode ser obtido por meio desse [link](http://repositorio.dados.gov.br/seges/comprasnet_contratos/anual/comprasnet-contratos-anual-cronogramas-latest.csv)
+O código se encontra [aqui](spark_application/etl.py) e o dado pode ser obtido por meio desse [link](http://repositorio.dados.gov.br/seges/comprasnet_contratos/anual)
 
 ```python
 
@@ -105,7 +105,7 @@ spark-submit etl.py
 
 ```
 
-Você também encontrará o mesmo código e ideia de ETL em **notebooks**, em versão [pyspark](notebooks_colab\ETL_PYSPARK_SIMPLE_CSV.ipynb) ou [spark-sql](notebooks_colab\ETL_SQL_SPARK_SIMPLE_CSV.ipynb).
+Você também encontrará o mesmo código e ideia de ETL em **notebooks**, em versão [pyspark](notebooks_colab/ETL_PYSPARK_SIMPLE_CSV.ipynb) ou [spark-sql](notebooks_colab/ETL_SQL_SPARK_SIMPLE_CSV.ipynb).
 
 Espero que gostem!
 
