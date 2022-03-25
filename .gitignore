@@ -1,5 +1,4 @@
 *.parquet
 *.crc
-*_SUCCESS
 *year=*
 *.csv
