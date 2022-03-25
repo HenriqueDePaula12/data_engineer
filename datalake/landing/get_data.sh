@@ -1,0 +1,1 @@
+wget http://repositorio.dados.gov.br/seges/comprasnet_contratos/anual/comprasnet-contratos-anual-cronogramas-latest.csv
